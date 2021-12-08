@@ -1,0 +1,485 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 32717 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Cas de Graaff/Documents/Unity/Portals/Portals
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57353
+Successfully changed project path to: C:/Users/Cas de Graaff/Documents/Unity/Portals/Portals
+C:/Users/Cas de Graaff/Documents/Unity/Portals/Portals
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 21.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Cas de Graaff/Documents/Unity/Portals/Portals/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1e89)
+    Vendor:   
+    VRAM:     5967 MB
+    Driver:   30.0.14.9649
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56404
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001724 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 22.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.033 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000580 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.740 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1102 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.7 MB.
+System memory in use after: 56.8 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1543.
+Total: 1.498800 ms (FindLiveObjects: 0.163900 ms CreateObjectMapping: 0.029400 ms MarkObjects: 1.230400 ms  DeleteObjects: 0.074100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/Balcon.cs
+  artifactKey: Guid(38bbba161de33a84081c5483e1b64b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Balcon.cs using Guid(38bbba161de33a84081c5483e1b64b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7860da1d35cf8bf5dfa576aafc451cf3') in 0.027741 seconds
+  Import took 0.029733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(93afc1831032e654cb738896b1fe358b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(93afc1831032e654cb738896b1fe358b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23c037a4119e22a20f1dedd6ce3f7018') in 0.011752 seconds
+  Import took 0.014497 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000570 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.615 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1097 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.8 MB.
+System memory in use after: 56.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1545.
+Total: 1.506600 ms (FindLiveObjects: 0.149300 ms CreateObjectMapping: 0.027500 ms MarkObjects: 1.282000 ms  DeleteObjects: 0.046800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000639 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.703 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1097 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1547.
+Total: 1.485900 ms (FindLiveObjects: 0.224700 ms CreateObjectMapping: 0.035300 ms MarkObjects: 1.177400 ms  DeleteObjects: 0.047700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000863 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.671 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1097 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1549.
+Total: 1.457200 ms (FindLiveObjects: 0.162000 ms CreateObjectMapping: 0.023200 ms MarkObjects: 1.221800 ms  DeleteObjects: 0.048900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 805.131802 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(802fa74a03208a34f9b8847be4385a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(802fa74a03208a34f9b8847be4385a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84f414d3e7d429602dc776200a82a6c2') in 0.006988 seconds
+  Import took 0.008796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.340000 seconds.
+  path: Assets/Scenes/Portals.unity
+  artifactKey: Guid(3b8e6b501c0a26e458489ddbf8393d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Portals.unity using Guid(3b8e6b501c0a26e458489ddbf8393d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4427bf65db0e6b1d2cc0ec8d245f4d6c') in 0.013587 seconds
+  Import took 0.015346 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000581 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.652 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1101 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.4 MB.
+System memory in use after: 57.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1555.
+Total: 1.387800 ms (FindLiveObjects: 0.165500 ms CreateObjectMapping: 0.024500 ms MarkObjects: 1.149800 ms  DeleteObjects: 0.046800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 225.970608 seconds.
+  path: Assets/Textures/PortalIn.renderTexture
+  artifactKey: Guid(f762018e1ef61404594aa63ffd757c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/PortalIn.renderTexture using Guid(f762018e1ef61404594aa63ffd757c25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '325fd6d86bd42ed6a23225c048061bce') in 0.051811 seconds
+  Import took 0.053676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Textures/PortalOut.renderTexture
+  artifactKey: Guid(05a4aacaec877fe4c8036613a47ed864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/PortalOut.renderTexture using Guid(05a4aacaec877fe4c8036613a47ed864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2efc1e6b3cc2e755959c66b04ea45c29') in 0.008223 seconds
+  Import took 0.009786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.592286 seconds.
+  path: Assets/FarlandSkies/Skyboxes
+  artifactKey: Guid(c130f5e5b12752b41a3ca95f11a49efd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Skyboxes using Guid(c130f5e5b12752b41a3ca95f11a49efd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7a573b137657eabab0681170d3e1b9c') in 0.006849 seconds
+  Import took 0.008531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.036454 seconds.
+  path: Assets/FarlandSkies/Demo
+  artifactKey: Guid(cc334bd236c9bf24ba99adf4a2ef3a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Demo using Guid(cc334bd236c9bf24ba99adf4a2ef3a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8e8f44e67f56f715f9ae3e0adb3797f') in 0.006967 seconds
+  Import took 0.008683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.255341 seconds.
+  path: Assets/FarlandSkies/Demo/DemoScene.unity
+  artifactKey: Guid(47cd513b8c4397e4ca272a1ff269d933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Demo/DemoScene.unity using Guid(47cd513b8c4397e4ca272a1ff269d933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a9b8656774b5592ba1086d1d92037e1') in 0.005680 seconds
+  Import took 0.007446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/FarlandSkies/Demo/DemoScene.unity
+  artifactKey: Guid(47cd513b8c4397e4ca272a1ff269d933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Demo/DemoScene.unity using Guid(47cd513b8c4397e4ca272a1ff269d933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a9b8656774b5592ba1086d1d92037e1') in 0.002095 seconds
+  Import took 0.003546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.574877 seconds.
+  path: Assets/FarlandSkies/Demo/Textures
+  artifactKey: Guid(399c53e4f36bca046b88722940eec1d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Demo/Textures using Guid(399c53e4f36bca046b88722940eec1d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '578c4f69850af1a807be65be2bc095f6') in 0.004764 seconds
+  Import took 0.006756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.116510 seconds.
+  path: Assets/FarlandSkies/Demo/Textures/grid_black_128.psd
+  artifactKey: Guid(3833a7e6653de9049bfaf69e25deaf66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Demo/Textures/grid_black_128.psd using Guid(3833a7e6653de9049bfaf69e25deaf66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e98bd30b0e0dfc350a3bd9a21063a895') in 0.014953 seconds
+  Import took 0.016873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.647080 seconds.
+  path: Assets/FarlandSkies/Demo/Scripts
+  artifactKey: Guid(7080738d246006747964bbce844203b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Demo/Scripts using Guid(7080738d246006747964bbce844203b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00427861216fd201a56626d6e637ded3') in 0.001917 seconds
+  Import took 0.003452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.832659 seconds.
+  path: Assets/FarlandSkies/Demo/Scripts/Skybox
+  artifactKey: Guid(380526ef65a4cae47aeb3546ea9d58fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Demo/Scripts/Skybox using Guid(380526ef65a4cae47aeb3546ea9d58fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd262fb39adcb67327f2ed672be4dc1a5') in 0.005075 seconds
+  Import took 0.006716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/FarlandSkies/Demo/Scripts/Skybox
+  artifactKey: Guid(380526ef65a4cae47aeb3546ea9d58fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Demo/Scripts/Skybox using Guid(380526ef65a4cae47aeb3546ea9d58fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd262fb39adcb67327f2ed672be4dc1a5') in 0.002018 seconds
+  Import took 0.003371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.720770 seconds.
+  path: Assets/FarlandSkies/Demo/Scripts/Skybox/SkyboxChanger.cs
+  artifactKey: Guid(dca6002b33ac5bc48b39588e222296fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Demo/Scripts/Skybox/SkyboxChanger.cs using Guid(dca6002b33ac5bc48b39588e222296fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd695a58b97631a7e705656e9fcb59f2f') in 0.005118 seconds
+  Import took 0.006971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/FarlandSkies/Demo/Scripts/Skybox/SkyboxChanger.cs
+  artifactKey: Guid(dca6002b33ac5bc48b39588e222296fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Demo/Scripts/Skybox/SkyboxChanger.cs using Guid(dca6002b33ac5bc48b39588e222296fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd695a58b97631a7e705656e9fcb59f2f') in 0.002033 seconds
+  Import took 0.003728 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000806 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.944 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1101 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.6 MB.
+System memory in use after: 60.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1562.
+Total: 1.894500 ms (FindLiveObjects: 0.255500 ms CreateObjectMapping: 0.040100 ms MarkObjects: 1.545700 ms  DeleteObjects: 0.051900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.952079 seconds.
+  path: Assets/Materials/PortalIn.mat
+  artifactKey: Guid(a6c77b8bb01b4374d9fc960ed01c5712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/PortalIn.mat using Guid(a6c77b8bb01b4374d9fc960ed01c5712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57a7bd47496a868676a4bae51629e9e7') in 0.068019 seconds
+  Import took 0.070038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Materials/PortalOut.mat
+  artifactKey: Guid(c73d99323f9e28f4088e0a1b22423705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/PortalOut.mat using Guid(c73d99323f9e28f4088e0a1b22423705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a753672a42e1d6ad75ba1a0a44023184') in 0.011702 seconds
+  Import took 0.013799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.991643 seconds.
+  path: Assets/FarlandSkies/Skyboxes/CloudyCrown_01_Midday
+  artifactKey: Guid(52662b578ff18034aa89fddf59405d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Skyboxes/CloudyCrown_01_Midday using Guid(52662b578ff18034aa89fddf59405d22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aee9ad7445d74fa90e6d9a896d842aba') in 0.005327 seconds
+  Import took 0.007058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.754866 seconds.
+  path: Assets/FarlandSkies/Skyboxes/CloudyCrown_01_Midday/Textures
+  artifactKey: Guid(5dccd6d0d6c40b8419ec14daa812471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Skyboxes/CloudyCrown_01_Midday/Textures using Guid(5dccd6d0d6c40b8419ec14daa812471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23699ec2534ad60b38caf1a95e21b2dd') in 0.001837 seconds
+  Import took 0.003487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.104097 seconds.
+  path: Assets/FarlandSkies/Skyboxes/CloudyCrown_01_Midday/Textures/CloudyCrown_Midday_Back.png
+  artifactKey: Guid(fd76a3d85fa584e42834036916a79b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Skyboxes/CloudyCrown_01_Midday/Textures/CloudyCrown_Midday_Back.png using Guid(fd76a3d85fa584e42834036916a79b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1125741dcd67eb958fa6c4e5fbdec253') in 0.044053 seconds
+  Import took 0.045884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/FarlandSkies/Skyboxes/CloudyCrown_01_Midday/Textures/CloudyCrown_Midday_Down.png
+  artifactKey: Guid(b064041c87bd8fb4ba2c21aa4863127e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Skyboxes/CloudyCrown_01_Midday/Textures/CloudyCrown_Midday_Down.png using Guid(b064041c87bd8fb4ba2c21aa4863127e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c56eee9678accbfb9274c1abc507e5') in 0.009548 seconds
+  Import took 0.011358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/FarlandSkies/Skyboxes/CloudyCrown_01_Midday/Textures/CloudyCrown_Midday_Left.png
+  artifactKey: Guid(fd5f7c807ca1ea643b0ae501ff889a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Skyboxes/CloudyCrown_01_Midday/Textures/CloudyCrown_Midday_Left.png using Guid(fd5f7c807ca1ea643b0ae501ff889a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11620d0280f19d8668c531a8192e491d') in 0.008608 seconds
+  Import took 0.010579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/FarlandSkies/Skyboxes/CloudyCrown_01_Midday/Textures/CloudyCrown_Midday_Up.png
+  artifactKey: Guid(4e02df907356e0848a5d76021b80192a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Skyboxes/CloudyCrown_01_Midday/Textures/CloudyCrown_Midday_Up.png using Guid(4e02df907356e0848a5d76021b80192a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7337f19e0e22a9b56a2f1a8a21669e6') in 0.009240 seconds
+  Import took 0.011091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/FarlandSkies/Skyboxes/CloudyCrown_01_Midday/Textures/CloudyCrown_Midday_Front.png
+  artifactKey: Guid(dffdb4378818bc5469033648c57bd0b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Skyboxes/CloudyCrown_01_Midday/Textures/CloudyCrown_Midday_Front.png using Guid(dffdb4378818bc5469033648c57bd0b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc932b4cf28b4233a825fa6004fba8fa') in 0.008642 seconds
+  Import took 0.010213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/FarlandSkies/Skyboxes/CloudyCrown_01_Midday/Textures/CloudyCrown_Midday_Right.png
+  artifactKey: Guid(14877617607f5fb47af48fcd766426ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Skyboxes/CloudyCrown_01_Midday/Textures/CloudyCrown_Midday_Right.png using Guid(14877617607f5fb47af48fcd766426ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c249cbb82ee13cfebe6228a9276728b8') in 0.008550 seconds
+  Import took 0.010122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.607061 seconds.
+  path: Assets/Scenes/Portals.unity
+  artifactKey: Guid(3b8e6b501c0a26e458489ddbf8393d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Portals.unity using Guid(3b8e6b501c0a26e458489ddbf8393d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11c32ed570a8a3918ae364b8deeaf61e') in 0.002116 seconds
+  Import took 0.003782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.668923 seconds.
+  path: Assets/FarlandSkies/Skyboxes/CloudyCrown_05_Daybreak/CloudyCrown_Daybreak.mat
+  artifactKey: Guid(3930fc89a28b29746bde6a2389a513e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Skyboxes/CloudyCrown_05_Daybreak/CloudyCrown_Daybreak.mat using Guid(3930fc89a28b29746bde6a2389a513e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47dacf65971668d4a03f3f9fbd2c1fd8') in 0.030843 seconds
+  Import took 0.032900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 141.752409 seconds.
+  path: Assets/Scenes/Test.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Test.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8807af070614b6a5792574e177017944') in 0.005295 seconds
+  Import took 0.007477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 159.526701 seconds.
+  path: Assets/FarlandSkies/Demo/Materials/grid_black_128.mat
+  artifactKey: Guid(52f8d0e07ab59834bafb87318bee3124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Demo/Materials/grid_black_128.mat using Guid(52f8d0e07ab59834bafb87318bee3124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e707670b3d1ff8b8fdfbc53f151166cc') in 0.010298 seconds
+  Import took 0.012189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/FarlandSkies/Demo/Materials/GroundTexture.mat
+  artifactKey: Guid(6e3f986af96b0864f9b448013dd16ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Demo/Materials/GroundTexture.mat using Guid(6e3f986af96b0864f9b448013dd16ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e56dabb91932583a67d9008a11fcbad2') in 0.010034 seconds
+  Import took 0.011971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/FarlandSkies/Skyboxes/CloudyCrown_03_Midnight/CloudyCrown_Midnight.mat
+  artifactKey: Guid(ceb0a3ed2cb53a94fa21843cc958c52b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FarlandSkies/Skyboxes/CloudyCrown_03_Midnight/CloudyCrown_Midnight.mat using Guid(ceb0a3ed2cb53a94fa21843cc958c52b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13f3c4d4c4d419ae06db309836572e64') in 0.018124 seconds
+  Import took 0.020264 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000580 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.656 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1097 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.2 MB.
+System memory in use after: 61.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1599.
+Total: 1.498000 ms (FindLiveObjects: 0.167300 ms CreateObjectMapping: 0.025100 ms MarkObjects: 1.252200 ms  DeleteObjects: 0.052600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.160617 seconds.
+  path: Assets/Textures/CloudyCrown_Midday.mat
+  artifactKey: Guid(617d9be015db68348a623b01ea51a8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/CloudyCrown_Midday.mat using Guid(617d9be015db68348a623b01ea51a8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d2ee2c5eb4fcc344c377d9791988d9d') in 0.047629 seconds
+  Import took 0.049487 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
